@@ -138,6 +138,56 @@
         "silly"
       ],
       "id": "13"
+    },
+    {
+      "name": "Animal",
+      "species": "Cat",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "Sam",
+      "species": "Sloth",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "loving",
+        "goofy"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "Sample Animal",
+      "species": "???",
+      "diet": "folivore",
+      "personalityTraits": [
+        "zany",
+        "anxious"
+      ],
+      "id": "16"
+    },
+    {
+      "name": "Sam",
+      "species": "Monkey",
+      "diet": "folivore",
+      "personalityTraits": [
+        "zany",
+        "goofy"
+      ],
+      "id": "17"
+    },
+    {
+      "name": "Bruno",
+      "species": "Seal",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "hungry",
+        "loving",
+        "goofy"
+      ],
+      "id": "18"
     }
   ]
 }
