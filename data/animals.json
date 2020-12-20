@@ -188,6 +188,16 @@
         "goofy"
       ],
       "id": "18"
+    },
+    {
+      "name": "Sample Animal 2",
+      "species": "None",
+      "diet": "folivore",
+      "personalityTraits": [
+        "anxious",
+        "loving"
+      ],
+      "id": "19"
     }
   ]
 }
