@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description and Purpose
-A zoo animal management application that allows users to catelog animals and zookeepers associated with a zoo.
+A zoo animal management application that allows users to catalog animals and zookeepers associated with a zoo.
 
 ## Table of Contents
   - [Description and Purpose](#description-and-purpose)
