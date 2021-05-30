@@ -65,6 +65,12 @@
       "age": 38,
       "favoriteAnimal": "Sloth",
       "id": "10"
+    },
+    {
+      "name": "Dodie",
+      "age": 65,
+      "favoriteAnimal": "Cat",
+      "id": "11"
     }
   ]
 }
